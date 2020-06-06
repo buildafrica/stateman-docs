@@ -1,0 +1,2 @@
+# stateman
+The stateman project
