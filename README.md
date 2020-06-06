@@ -25,7 +25,11 @@ that they are not willing to fulfill
 ### Quick Links
 
 https://en.wikipedia.org/wiki/States_of_Nigeria
+
 https://www.inecnigeria.org/inec-lga-offices/
+
 https://www.inecnigeria.org/elections/election-results/
+
 https://www.inecnigeria.org/political-parties/constitutions-manifestos/
+
 [https://www.shineyoureye.org/](Markdown)
